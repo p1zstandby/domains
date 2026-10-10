@@ -2,6 +2,8 @@ payload:
     - +.epicgames.dev
     - +.epicgames.com
     - +.amazonaws.com
+    - +.appsflyersdk.com
+    - +.akamaized.net
     - +.heytapmobile.com
     - +.cloudfront.net
     - +.ua
